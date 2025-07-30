@@ -1,3 +1,9 @@
 p{
     color:red;
 }
+p{
+    color:red;
+}
+p{
+    color:lab(lightness a b);
+}
